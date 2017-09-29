@@ -1,1 +1,49 @@
 
+
+video {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ width: 2000px;
+ height: 2000px;
+ z-index:-1;
+}
+
+html { overflow-y: hidden; }
+html { overflow-x: hidden; }
+
+div.box img {
+    display: block;
+    margin: auto;
+    height: 10%;
+}
+
+div.box img {
+    height: 300px;
+    vertical-align: middle;
+    padding: 40px 0;
+}
+
+span.kiristeam{
+    height: auto;
+    width: 1230px;
+    float: right;
+    left: 640;
+    padding-left: 20px;
+    padding-top: 13px;
+    padding-right: 20px;
+}
+
+span.kiriyt{
+    position: absolute;
+    float: left;
+    right: 640px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+
+
+
