@@ -26,10 +26,9 @@ div.box img {
 }
 
 span.kiristeam{
-    height: auto;
-    width: 65%;
-    float: right;
-    left: 640%;
+    height: 300px;
+    width: 75%;
+    float: left;
     padding-left: 1%;
     padding-top: 1%;
     padding-right: 1%;
@@ -37,8 +36,9 @@ span.kiristeam{
 
 span.kiriyt{
     position: absolute;
-    float: left;
-    right: 30%;
+    height: 200px;
+    float: right;
+    left: 48%;
     padding-left: 1%;
     padding-top: 1%;
     padding-right: 1%x;
